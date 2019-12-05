@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1575375310 source:c:\users\jélal\desktop\code_led\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"menu.h"
+	"menu.c"
+	"generationCode.h"
+
+1542360558 c:\users\jélal\desktop\code_led\menu.h
+
+1575321073 c:\users\jélal\desktop\code_led\menu.c
+	<stdlib.h>
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1575374357 c:\users\jélal\desktop\code_led\generationcode.h
+	<stdio.h>
+

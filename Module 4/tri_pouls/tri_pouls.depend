@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1575398802 source:c:\users\sipoufo\desktop\cour\projet\projet 1\code\tri\tri_pouls\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"donnee.h"
+
+1575397837 source:c:\users\sipoufo\desktop\cour\projet\projet 1\code\tri\tri_pouls\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+
+1575382918 c:\users\sipoufo\desktop\cour\projet\projet 1\code\tri\tri_pouls\menu.h
+
+1575383408 c:\users\sipoufo\desktop\cour\projet\projet 1\code\tri\tri_pouls\action.h
+
+1575397597 source:c:\users\sipoufo\desktop\cour\projet\projet 1\code\tri\tri_pouls\action.c
+
+1575398895 source:c:\users\sipoufo\desktop\cour\projet\projet 1\code\tri\tri_pouls\donnee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"donnee.h"
+
+1575398775 c:\users\sipoufo\desktop\cour\projet\projet 1\code\tri\tri_pouls\donnee.h
+
+1575398804 source:e:\tri_pouls\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"donnee.h"
+
+1575382920 e:\tri_pouls\menu.h
+
+1575398776 e:\tri_pouls\donnee.h
+

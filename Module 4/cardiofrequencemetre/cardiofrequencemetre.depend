@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1542612799 source:c:\users\user\desktop\prosit\ue-1 fondamentaux\projet\module 4\module 4\cardiofrequencemetre\actions.c
+	<stdio.h>
+	<stdlib.h>
+	"actions.h"
+	"donnees.h"
+
+1542320588 c:\users\user\desktop\prosit\ue-1 fondamentaux\projet\module 4\module 4\cardiofrequencemetre\actions.h
+	"donnees.h"
+
+1542276202 c:\users\user\desktop\prosit\ue-1 fondamentaux\projet\module 4\module 4\cardiofrequencemetre\donnees.h
+
+1544998677 source:c:\users\user\desktop\prosit\ue-1 fondamentaux\projet\module 4\module 4\cardiofrequencemetre\main.c
+	<stdio.h>
+	<stdlib.h>
+	"donnees.h"
+	"menu.h"
+	"actions.h"
+
+1542182968 c:\users\user\desktop\prosit\ue-1 fondamentaux\projet\module 4\module 4\cardiofrequencemetre\menu.h
+
+1544995506 source:c:\users\user\desktop\prosit\ue-1 fondamentaux\projet\module 4\module 4\cardiofrequencemetre\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"actions.h"
+
+1544998253 source:c:\users\user\desktop\prosit\ue-1 fondamentaux\projet\module 4\module 4\cardiofrequencemetre\donnees.c
+	<stdio.h>
+	<stdlib.h>
+	"donnees.h"
+
+1542612799 source:c:\users\heidy kengne\desktop\nouveau dossier\module 4\module 4\cardiofrequencemetre\actions.c
+	<stdio.h>
+	<stdlib.h>
+	"actions.h"
+	"donnees.h"
+
+1542320588 c:\users\heidy kengne\desktop\nouveau dossier\module 4\module 4\cardiofrequencemetre\actions.h
+	"donnees.h"
+
+1542276202 c:\users\heidy kengne\desktop\nouveau dossier\module 4\module 4\cardiofrequencemetre\donnees.h
+
+1544998253 source:c:\users\heidy kengne\desktop\nouveau dossier\module 4\module 4\cardiofrequencemetre\donnees.c
+	<stdio.h>
+	<stdlib.h>
+	"donnees.h"
+
+1544995506 source:c:\users\heidy kengne\desktop\nouveau dossier\module 4\module 4\cardiofrequencemetre\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"actions.h"
+
+1542182968 c:\users\heidy kengne\desktop\nouveau dossier\module 4\module 4\cardiofrequencemetre\menu.h
+
+1545010072 source:c:\users\heidy kengne\desktop\nouveau dossier\module 4\module 4\cardiofrequencemetre\main.c
+	<stdio.h>
+	<stdlib.h>
+	"donnees.h"
+	"menu.h"
+	"actions.h"
+
+1542612800 source:g:\unité 1 bloc 1\projet a1\groupe 7 rat\module 4\cardiofrequencemetre\actions.c
+	<stdio.h>
+	<stdlib.h>
+	"actions.h"
+	"donnees.h"
+
+1542320588 g:\unité 1 bloc 1\projet a1\groupe 7 rat\module 4\cardiofrequencemetre\actions.h
+	"donnees.h"
+
+1542276202 g:\unité 1 bloc 1\projet a1\groupe 7 rat\module 4\cardiofrequencemetre\donnees.h
+
+1544998254 source:g:\unité 1 bloc 1\projet a1\groupe 7 rat\module 4\cardiofrequencemetre\donnees.c
+	<stdio.h>
+	<stdlib.h>
+	"donnees.h"
+
+1545038864 source:g:\unité 1 bloc 1\projet a1\groupe 7 rat\module 4\cardiofrequencemetre\main.c
+	<stdio.h>
+	<stdlib.h>
+	"donnees.h"
+	"menu.h"
+	"actions.h"
+
+1542182968 g:\unité 1 bloc 1\projet a1\groupe 7 rat\module 4\cardiofrequencemetre\menu.h
+
+1544995508 source:g:\unité 1 bloc 1\projet a1\groupe 7 rat\module 4\cardiofrequencemetre\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"actions.h"
+

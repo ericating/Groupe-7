@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1575458046 source:c:\users\user\documents\github\coeur de leds\generation code.c
+	<stdio.h>
+	"generation code.h"
+
+1575458436 source:c:\users\user\documents\github\coeur de leds\menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1575458131 source:c:\users\user\documents\github\coeur de leds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"generation code.h"
+
+1575453112 c:\users\user\documents\github\coeur de leds\menu.h
+
+1575458107 c:\users\user\documents\github\coeur de leds\menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1575456657 c:\users\user\documents\github\coeur de leds\generation code.h
+
+1575458046 source:c:\users\user\desktop\coeur de leds\generation code.c
+	<stdio.h>
+	"generation code.h"
+
+1575456657 c:\users\user\desktop\coeur de leds\generation code.h
+
+1575460051 source:c:\users\user\desktop\coeur de leds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"generation code.h"
+
+1575459861 c:\users\user\desktop\coeur de leds\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1575459883 c:\users\user\desktop\coeur de leds\menu.h
+
+1575460110 source:c:\users\user\desktop\coeur de leds\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
